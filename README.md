@@ -1,17 +1,8 @@
-                                             ### Hi there, I'am Peter Diyo👋
+                                         # 🌟 Welcome to My GitHub Universe 
+                                         
+                    Hey there! I'm Peter Diyo, a passionate Software Engineer. Thanks for dropping by!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-### aboutMe.Js:
+## 👨‍💻 AboutMe.Js
 
 ```javascript
 const PeterDiyo = {
@@ -32,3 +23,15 @@ const PeterDiyo = {
    }
 };
 ```
+
+## 📊 GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/PeterDiyo)
+
+
+
+## 🌐 Connect & Explore More
+
+- [LinkedIn](https://www.linkedin.com/in/peter-diyo-a38451289/)
+
+Drop a star ⭐ on repositories you find intriguing! Let's embark on this coding odyssey together! 🚀
