@@ -1,4 +1,4 @@
-                                         # 🌟 Welcome to My GitHub Universe 
+<p align="center">🌟 Welcome to My GitHub Universe </p>
                                          
 ### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Peter Diyo</p>
 
@@ -37,7 +37,9 @@ const PeterDiyo = {
 
 ## 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterDiyo&show_icons=true&theme=radical&count_private=true&hide=contribs,issues)](https://github.com/PeterDiyo)
+| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=PeterDiyo&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=PeterDiyo&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Diyo's Most used lang" /> |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=VikashPR&theme=vue-dark" alt="Vikash2806 Streak" />  
 
 
 
