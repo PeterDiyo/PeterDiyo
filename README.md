@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**PeterDiyo/PeterDiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'am Petet👋
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### aboutMe.Js:
+
+```javascript
+const VikashPR = {
+   pronouns: "he" | "him",
+   code: ["HTML", "JS", "CSS", "C/C++", "PYTHON"],
+   askMeAbout: ["Web Development", "Cycling", "Discord", "IoT"],
+   technologies: {
+       frontEnd: {
+           js: ["Vue.js", "React.js", "Next.js", "Nuxt.js"]
+       },
+       backEnd: {
+           basS: ["Firebase"]
+       },
+       competitive: {
+           compilerLang: ["C/C++"],
+           interpretedLang: ["PYTHON"]
+       }
+   }
+};
+```
