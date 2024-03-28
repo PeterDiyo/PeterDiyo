@@ -26,7 +26,7 @@ const PeterDiyo = {
 
 ## 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterDiyo&show_icons=true&theme=radical)](https://github.com/PeterDiyo)
+![Your GitHub stats](https://img.shields.io/github/contributors-anon/PeterDiyo/PeterDiyo?style=flat-square)
 
 
 
