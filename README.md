@@ -1,4 +1,4 @@
-### Hi there I'am Petet👋
+### Hi there I'am Peter Diyo👋
 
 Here are some ideas to get you started:
 
@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 ### aboutMe.Js:
 
 ```javascript
-const VikashPR = {
+const PeterDiyo = {
    pronouns: "he" | "him",
-   code: ["HTML", "JS", "CSS", "C/C++", "PYTHON"],
-   askMeAbout: ["Web Development", "Cycling", "Discord", "IoT"],
+   code: ["HTML", "JS", "CSS", "C/C++", "PYTHON", "JAVA"],
+   askMeAbout: ["Software Engineering(full stack developmet), Graphic Designing, Video Editing"],
    technologies: {
        frontEnd: {
-           js: ["Vue.js", "React.js", "Next.js", "Nuxt.js"]
+           js: ["React.js", "Vite", "Tailwind", "Headless CMS"]
        },
        backEnd: {
-           basS: ["Firebase"]
+           js: ["Node.js", "Express.js", "MongoDB", "SQL"]
        },
        competitive: {
-           compilerLang: ["C/C++"],
+           compilerLang: ["JAVA"],
            interpretedLang: ["PYTHON"]
        }
    }
