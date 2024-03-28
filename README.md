@@ -1,4 +1,4 @@
-                                                                       ### Hi there I'am Peter Diyo👋
+                                                         ### Hi there I'am Peter Diyo👋
 
 Here are some ideas to get you started:
 
