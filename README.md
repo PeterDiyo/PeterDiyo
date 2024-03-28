@@ -1,13 +1,11 @@
                                          # 🌟 Welcome to My GitHub Universe 
                                          
-    ### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Peter Diyo</p>
+### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Peter Diyo</p>
 
     
 <p align="center"> 
 I am passionate about Software Engineering and I love programming
 </p>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ## 👨‍💻 AboutMe.Js
 
