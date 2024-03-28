@@ -39,9 +39,7 @@ const PeterDiyo = {
 
 | <img width="450em" src="https://github-profile-trophy.vercel.app/?username=PeterDiyo&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=PeterDiyo&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Diyo's Most used lang" /> |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=VikashPR&theme=vue-dark" alt="Vikash2806 Streak" />  
-
-
+|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=PeterDiyo&theme=vue-dark" alt="PeterDiyo Streak" />                                           |  <img width="450em" align="center" alt="PeterDiyo's Github stats"  src="https://github-readme-stats.vercel.app/api?username=PeterDiyo&show_icons=true&count_private=true&theme=vue-dark" />   |
 
 
 ## 🌐 Connect & Explore More
