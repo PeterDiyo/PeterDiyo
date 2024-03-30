@@ -16,10 +16,10 @@ const PeterDiyo = {
    askMeAbout: ["Software Engineering(full stack developmet), Graphic Designing, Video Editing"],
    technologies: {
        frontEnd: {
-           js/framework: ["React.js", "Vite", "Tailwind", "Headless CMS"]
+           js||framework: ["React.js", "Vite", "Tailwind", "Headless CMS"]
        },
        backEnd: {
-           js/framework: ["Node.js", "Express.js", "MongoDB", "SQL"]
+           js||framework: ["Node.js", "Express.js", "MongoDB", "SQL"]
        },
        competitive: {
            compilerLang: ["JAVA"],
