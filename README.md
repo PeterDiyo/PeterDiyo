@@ -46,5 +46,6 @@ const PeterDiyo = {
 
 - [LinkedIn](https://www.linkedin.com/in/peter-diyo-a38451289/)
 - [Instagram](https://www.instagram.com/diyopeter/)
+- [Instagram](https://x.com/peter_diyo?t=GjznmSILO2rOpWbh9zFdHA&s=09)
 
 Drop a star ⭐ on repositories you find intriguing! Let's embark on this coding odyssey together! 🚀
