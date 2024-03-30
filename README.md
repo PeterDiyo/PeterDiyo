@@ -45,5 +45,6 @@ const PeterDiyo = {
 ## 🌐 Connect & Explore More
 
 - [LinkedIn](https://www.linkedin.com/in/peter-diyo-a38451289/)
+- [Instagram](https://www.instagram.com/diyopeter/)
 
 Drop a star ⭐ on repositories you find intriguing! Let's embark on this coding odyssey together! 🚀
