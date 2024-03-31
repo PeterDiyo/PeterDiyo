@@ -1,4 +1,4 @@
-<h2 align="center">🌟 Welcome to My GitHub Universe </h2>
+<h2 align="center">🌟 Welcome to My GitHub Universe 🌐</h2>
                                          
 ### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Peter Diyo</p>
 
@@ -48,4 +48,4 @@ const PeterDiyo = {
 - [Instagram](https://www.instagram.com/diyopeter/)
 - [Twitter](https://x.com/peter_diyo?t=GjznmSILO2rOpWbh9zFdHA&s=09)
 
-Drop a star ⭐ on repositories you find intriguing! Let's embark on this coding odyssey together! 🚀
+<h2 align="center">Drop a star ⭐ on repositories you find intriguing! Let's embark on this coding odyssey together! 🚀</h2>
