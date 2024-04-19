@@ -19,7 +19,7 @@ const PeterDiyo = {
            jsframework: ["React.js", "Vite", "Tailwind", "Headless CMS"]
        },
        backEnd: {
-           jsframework: ["Node.js", "Express.js", "MongoDB", "SQL", "airtable"]
+           jsframework: ["Node.js", "Express.js", "MongoDB", "SQL", "Airtable"]
        },
        competitive: {
            compilerLang: ["JAVA"],
