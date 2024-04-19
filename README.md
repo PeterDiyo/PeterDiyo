@@ -13,7 +13,7 @@ I am passionate about Software Engineering and I love programming.
 const PeterDiyo = {
    pronouns: "he" | "him",
    code: ["HTML", "JS", "CSS", "C/C++", "PYTHON", "JAVA"],
-   askMeAbout: ["Software Engineering(full stack developmet), Graphic Designing, Video Editing"],
+   askMeAbout: ["Software Engineering(full stack development), Graphic Designing, Video Editing"],
    technologies: {
        frontEnd: {
            jsframework: ["React.js", "Vite", "Tailwind", "Headless CMS"]
