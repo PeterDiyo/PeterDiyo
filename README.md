@@ -16,7 +16,7 @@ const PeterDiyo = {
    askMeAbout: ["Software Engineering(full stack development), Graphic Designing, Video Editing"],
    technologies: {
        frontEnd: {
-           jsframework: ["React.js", "Vite", "Tailwind", "Headless CMS"]
+           jsframework: ["React.js", "Vite", "Tailwind"]
        },
        backEnd: {
            jsframework: ["Node.js", "Express.js", "MongoDB", "SQL", "Airtable DB"]
