@@ -14,7 +14,7 @@ const PeterDiyo = {
    pronouns: "he" | "him", 
    code: ["HTML", "JS", "CSS", "C/C++", "PYTHON", "JAVA"],
    askMeAbout: ["Software Engineering(full stack development), Graphic Designing, Video Editing"],
-   technologies: { 
+   technologies: {  
        frontEnd: {
            jsframework: ["React.js", "Vite", "Tailwind"]
        },
