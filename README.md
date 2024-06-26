@@ -16,10 +16,10 @@ const PeterDiyo = {
    askMeAbout: ["Software Engineering(full stack development), Graphic Designing, Video Editing"],
    technologies: {  
        frontEnd: {
-           jsframework: ["React.js", "Vite", "Tailwind"]
+           lang/framework: ["React.js", "Vite", "Tailwind, "JavaScript"]
        },
        backEnd: {
-           jsframework: ["Node.js", "Express.js", "MongoDB", "SQL", "PHP"]
+           lang/framework: ["Node.js", "Express.js", "MongoDB", "SQL", "PHP"]
        },
        fullStack: {
            jsframework: ["Next.js", "MERN Stack"]
