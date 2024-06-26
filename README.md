@@ -12,11 +12,11 @@ I am passionate about Software Development and I love programming.
 ```javascript
 const PeterDiyo = {  
    pronouns: "he" | "him",  
-   code: ["HTML", "JS", "CSS", "C/C++", "PYTHON", "JAVA"],
+   code: ["HTML", "JS", "CSS", "C/C++", "PYTHON", "JAVA", "TYPESCRIPT"],
    askMeAbout: ["Software Engineering(full stack development), Graphic Designing, Video Editing"],
    technologies: {  
        frontEnd: {
-           framework: ["React.js", "Vite", "Tailwind, "JavaScript"]
+           framework: ["React.js", "Vite", "Tailwind"]
        },
        backEnd: {
            framework: ["Node.js", "Express.js", "MongoDB", "SQL", "PHP"]
