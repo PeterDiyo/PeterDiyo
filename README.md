@@ -7,7 +7,7 @@
 I am passionate about Software Development and I love programming.          
 </p>      
                
-## 👨‍💻 AboutMe.Js         
+## 👨‍💻 AboutMe.Js          
     
 ```javascript
 const PeterDiyo = {  
