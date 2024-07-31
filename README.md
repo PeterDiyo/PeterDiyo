@@ -18,7 +18,7 @@ const PeterDiyo = {
            framework: ["React.js", "Vite", "Tailwind", "Bootstrap"]
        },
        backEnd: {
-           framework: ["Node.js", "Express.js", "MongoDB", "SQL", "PHP"]
+           framework/lang: ["Node.js", "Express.js", "MongoDB", "SQL", "PHP"]
        },
        fullStack: {
            jsframework: ["Next.js", "MERN Stack"]
