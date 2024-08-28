@@ -12,10 +12,10 @@ I am passionate about Software Development (Web & Mobile App Dev) and I love pro
 const PeterDiyo = {    
    pronouns: "he" | "him",
    code: ["HTML", "JS", "CSS", "C/C++", "PYTHON", "JAVA", "TYPESCRIPT"],
-   askMeAbout: ["Software Engineering(full stack development), Graphic Designing, Video Editing"],
+   askMeAbout: ["Software Engineering(full stack Dev, Web Dev, Mobile App Dev), Graphic Designing, Video Editing"],
    technologies: {  
        frontEnd: {
-           framework: ["React.js", "Vite", "Tailwind", "Bootstrap"]
+           framework: ["React.js", "Vite", "Tailwind", "Bootstrap", "Flutter"]
        },
        backEnd: {
            frameworkLang: ["Node.js", "Express.js", "MongoDB", "MySQL", "Firebase"]
