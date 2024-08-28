@@ -3,7 +3,7 @@
 ### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Peter Diyo</p>
 
 <p align="center"> 
-I am passionate about Software Development and I love programming.     
+I am passionate about Software Development (Web & Mobile App Dev) and I love programming.     
 </p>          
              
 ## 👨‍💻 AboutMe.Js 
@@ -18,14 +18,14 @@ const PeterDiyo = {
            framework: ["React.js", "Vite", "Tailwind", "Bootstrap"]
        },
        backEnd: {
-           frameworkLang: ["Node.js", "Express.js", "MongoDB", "SQL", "PHP"]
+           frameworkLang: ["Node.js", "Express.js", "MongoDB", "MySQL", "Firebase"]
        },
        fullStack: {
            jsframework: ["Next.js", "MERN Stack"]
        },
        competitive: {
            compilerLang: ["JAVA"],
-           interpretedLang: ["PYTHON"]
+           interpretedLang: ["PYTHON","JAVASCRIPT"]
        }
    }
 };
