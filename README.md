@@ -13,7 +13,7 @@ const PeterDiyo = {
    pronouns: "he" | "him",
    code: ["HTML", "JS", "CSS", "C/C++", "PYTHON", "JAVA", "TYPESCRIPT"],
    askMeAbout: ["Software Engineering(full stack Web Dev, Mobile App Dev), Graphic Designing, Video Editing"],
-   technologies: {  
+   technologies: { 
        frontEnd: {
            framework: ["React.js", "Vite", "Tailwind", "Bootstrap", "React Native"]
        },
