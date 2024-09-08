@@ -20,7 +20,7 @@ const PeterDiyo = {
        backEnd: {
            frameworkLang: ["Node.js", "Express.js", "MongoDB", "MySQL", "Firebase"]
        },
-       fullStack: {
+       fullStack: { 
            jsframework: ["Next.js", "MERN Stack"]
        },
        competitive: {
