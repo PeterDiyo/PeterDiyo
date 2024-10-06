@@ -8,7 +8,7 @@ I am passionate about Software Development (Web & Mobile App Dev) and I love pro
 
 ## 👨‍💻 AboutMe.Js  
   
-```javascript 
+```javascript  
 const PeterDiyo = { 
    pronouns: "he" | "him",  
    code: ["HTML", "JS", "CSS", "C/C++", "PYTHON", "JAVA", "TYPESCRIPT"],
