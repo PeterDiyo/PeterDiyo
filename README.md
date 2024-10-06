@@ -10,7 +10,7 @@ I am passionate about Software Development (Web & Mobile App Dev) and I love pro
  
 ```javascript 
 const PeterDiyo = { 
-   pronouns: "he" | "him", 
+   pronouns: "he" | "him",  
    code: ["HTML", "JS", "CSS", "C/C++", "PYTHON", "JAVA", "TYPESCRIPT"],
    askMeAbout: ["Software Engineering(full stack Web Dev, Mobile App Dev), Graphic Designing, Video Editing"],
    technologies: { 
