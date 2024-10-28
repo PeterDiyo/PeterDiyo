@@ -3,7 +3,7 @@
 ### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Peter Diyo</p> 
 
 <p align="center">
-I am passionate about Software Engineering, I love Coding.
+I am passionate about Software Engineering, I love Coding. 
 </p> 
 
 ## 👨‍💻 AboutMe.Js  
@@ -19,7 +19,7 @@ const PeterDiyo = {
        },
        backEnd: {
            frameworkLang: ["Node.js", "Express.js", "MongoDB", "MySQL", "Supabase"]
-       },
+       }, 
        fullStack: { 
            jsframework: ["Next.js", "MERN Stack"]
        },
