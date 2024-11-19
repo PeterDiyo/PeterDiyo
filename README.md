@@ -9,7 +9,7 @@ I am passionate about Software Engineering, I love Coding.
 ## 👨‍💻 AboutMe.Js 
   
 ```javascript
-const PeterDiyo = {
+const PeterDiyo = { 
    pronouns: "he" | "him",
    code: ["HTML", "JS", "CSS", "C/C++", "PYTHON", "JAVA", "TYPESCRIPT"], 
    askMeAbout: ["Software Engineering, Full Stack Development"],
