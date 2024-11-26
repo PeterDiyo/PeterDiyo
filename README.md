@@ -12,7 +12,7 @@ I am passionate about Software Engineering, I love Coding.
 const PeterDiyo = {
    pronouns: "he" | "him", 
    code: ["HTML", "JS", "CSS", "C/C++", "PYTHON", "JAVA", "TYPESCRIPT"], 
-   askMeAbout: ["Software Engineering, Full Stack Development"],
+   askMeAbout: ["Software Engineer, Full Stack Development"],
    technologies: { 
        frontEnd: {
            framework: ["React.js", "Vite", "Tailwind", "Bootstrap", "React Native"]
@@ -44,7 +44,7 @@ const PeterDiyo = {
 |                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=PeterDiyo&theme=vue-dark" alt="PeterDiyo Streak" />                                           |  <img width="450em" align="center" alt="PeterDiyo's Github stats"  src="https://github-readme-stats.vercel.app/api?username=PeterDiyo&show_icons=true&count_private=true&theme=vue-dark" />   |
 
 
-## 🌐 Connect & Explore More 
+## 🌐 Connect & Explore More
 
 - [LinkedIn](https://www.linkedin.com/in/peter-diyo-a38451289/)
 - [Instagram](https://www.instagram.com/diyopeter/)
