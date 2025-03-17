@@ -39,9 +39,21 @@ const PeterDiyo = {
 
 ## 📊 GitHub Stats
 
-| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=PeterDiyo&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true" alt="GitHub Profile Trophy" /> | <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=PeterDiyo&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="PeterDiyo's Most used lang" /> |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img width="450em" src="https://streak-stats.demolab.com?user=PeterDiyo&theme=vue-dark" alt="PeterDiyo Streak" />                                                                 | <img width="450em" src="https://github-readme-stats.vercel.app/api?username=PeterDiyo&show_icons=true&count_private=true&theme=vue-dark" alt="PeterDiyo's GitHub stats" />               |
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=PeterDiyo&show_icons=true&theme=radical" alt="PeterDiyo's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterDiyo&layout=compact&theme=radical" alt="PeterDiyo's Most used languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterDiyo&theme=radical" alt="PeterDiyo's GitHub streak" />
+    </td>
+  </tr>
+</table>              |
 
 
 ## 🌐 Connect & Explore More
