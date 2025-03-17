@@ -37,23 +37,21 @@ const PeterDiyo = {
 
 <!-- <p align="right" width="50%"> <a href="#"><img width="450" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"  /></a></p>-->
 
-## 📊 GitHub Stats
+## 🚀 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PeterDiyo&show_icons=true&theme=radical" alt="PeterDiyo's GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterDiyo&layout=compact&theme=radical" alt="PeterDiyo's Most used languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterDiyo&theme=radical" alt="PeterDiyo's GitHub streak" />
-    </td>
-  </tr>
-</table>              |
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PeterDiyo&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterDiyo&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=PeterDiyo&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeterDiyo&theme=tokyonight" />
+</p>
+
 
 
 ## 🌐 Connect & Explore More
