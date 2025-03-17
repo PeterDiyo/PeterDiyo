@@ -37,19 +37,38 @@ const PeterDiyo = {
 
 <!-- <p align="right" width="50%"> <a href="#"><img width="450" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"  /></a></p>-->
 
-## 🚀 GitHub Stats
+## 🚀 GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PeterDiyo&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterDiyo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PeterDiyo&show_icons=true&theme=onedark&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterDiyo&layout=compact&theme=onedark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=PeterDiyo&theme=tokyonight&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=PeterDiyo&theme=onedark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeterDiyo&theme=tokyonight" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeterDiyo&theme=onedark" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PeterDiyo&theme=onedark&no-frame=true&margin-w=15&row=1&column=7" />
+</p>
+
+## 🔥 Recent GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PeterDiyo&theme=onedark&hide_border=true" />
+</p>
+
+## 💻 Coding Stats
+
+<!-- Replace USERNAME with your Wakatime username -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PeterDiyo&theme=onedark&hide_border=true" />
 </p>
 
 
