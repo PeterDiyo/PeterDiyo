@@ -12,13 +12,13 @@ I am passionate about Software Engineering, I love Coding.
 const PeterDiyo = {
    pronouns: "he" | "him", 
    code: ["HTML", "JS", "CSS", "C/C++", "PYTHON", "JAVA", "TYPESCRIPT"], 
-   askMeAbout: ["Software Engineer, Full Stack Development"],
+   askMeAbout: ["Software Engineering, Full Stack Development"],
    technologies: { 
        frontEnd: {
            framework: ["React.js", "Vite", "Tailwind", "Bootstrap", "React Native"]
        },
        backEnd: {
-           frameworkLang: ["Convex", "Node.js", "Express.js", "MongoDB", "MySQL", "Supabase", "Convex"]
+           frameworkLang: ["Convex", "Spring Boot", "Node.js", "Express.js", "MongoDB", "MySQL", "Supabase"]
        }, 
        fullStack: { 
            jsframework: ["Next.js", "MERN Stack"]
