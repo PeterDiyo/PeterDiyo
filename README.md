@@ -1,76 +1,90 @@
-<h2 align="center">🌟 Welcome to My GitHub Universe!🌐</h2>
-
-### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Peter Diyo</p> 
- 
-<p align="center"> 
-I am passionate about Software Engineering, I love Coding.  
-</p>
-
-## 👨‍💻 AboutMe.Js  
-    
-```javascript
-const PeterDiyo = {
-   pronouns: "he" | "him", 
-   code: ["HTML", "JS", "CSS", "C/C++", "PYTHON", "JAVA", "TYPESCRIPT"], 
-   askMeAbout: ["Software Engineering, Full Stack Development"],
-   technologies: { 
-       frontEnd: {
-           framework: ["React.js", "Vite", "Tailwind", "Bootstrap", "React Native"]
-       },
-       backEnd: {
-           frameworkLang: ["Convex", "Spring Boot", "Node.js", "Express.js", "MongoDB", "MySQL", "Supabase"]
-       }, 
-       fullStack: { 
-           jsframework: ["Next.js", "MERN Stack"]
-       },
-       competitive: {
-           compilerLang: ["JAVA"],
-           interpretedLang: ["PYTHON","JAVASCRIPT"]
-       }
-   }
-};
-```
- 
-### Programing Languages:
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-
-<!-- <p align="right" width="50%"> <a href="#"><img width="450" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"  /></a></p>-->
-
-## 🚀 GitHub Stats & Activity
+<h1 align="center">Peter Diyo</h1>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=PeterDiyo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterDiyo&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <strong>Software Development Engineer · Full-Stack Architect · Cloud & Distributed Systems</strong>
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=PeterDiyo&theme=github_dark&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Scalable+Cloud+Systems;Production-Grade+Full-Stack+Engineering;Real-Time+Systems+%7C+Convex+%26+WebSockets;Infrastructure+as+Code+%7C+AWS+%26+K8s" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeterDiyo&theme=github_dark" />
+  <a href="https://github.com/PeterDiyo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/peter-diyo-a38451289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:princediyo93@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/peter_diyo"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://peterdiyo.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-## 🏆 GitHub Trophies
+---
+
+## 👨‍💻 Engineering Philosophy
+
+I architect production systems that scale linearly, fail predictably, and remain observable under pressure. I prioritize type-safety over speed, idempotent operations over side-effects, and developer experience as a first-class citizen. I design software that survives real users, high-concurrency traffic, and complex failure modes.
+
+---
+
+## 🧠 Strategic Expertise
+
+- **Distributed Full-Stack** — Next.js, React, Node.js, Spring Boot, T3 Stack
+- **Cloud Infrastructure** — AWS (SNS, SES, EC2, IAM), Terraform, Event-Driven Architecture
+- **Data Engineering** — PostgreSQL, MySQL, NoSQL, Prisma, Drizzle, Zod Validation
+- **Real-Time Platforms** — Convex, WebSockets, Redis, State Synchronization
+- **DevOps & Platform** — Docker, Kubernetes (EKS/Self-managed), CI/CD, Cloudflare
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PeterDiyo&theme=algolia&no-frame=true&margin-w=10&row=1&column=7" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,spring,postgres,mysql,mongodb,prisma,aws,docker,kubernetes,githubactions,cloudflare,vercel,py,java,cpp,html,css,tailwind,git,postman" />
 </p>
 
-## 🔥 Recent GitHub Activity
+---
+
+## 🏛️ System Architecture Workflow
+
+
+
+* **Idempotency & Reliability:** Implementing automated retry/bounce logic for high-volume event streams (50K+ daily).
+* **Type-Safe Pipelines:** End-to-end schema validation using **Zod** and **TypeScript** to ensure runtime stability.
+* **Orchestration:** Containerized microservices deployed via **GitHub Actions** to **Kubernetes** clusters.
+
+---
+
+## 🚀 Selected Engineering Impact
+
+| Project | Deep Dive | Technical Highlight |
+|:--- |:--- |:--- |
+| **Teamz** | High-concurrency collaboration | Real-time state sync via Convex, RBAC, Nested Threads |
+| **CisiDOCX** | AI Document OS | LLM-based compliance checking, Multi-tenant Architecture |
+| **Catalyst** | Business Acquisition API | High-throughput REST patterns, K8s scaling, Drizzle ORM |
+| **AgroHub** | Farmer Marketplace | Geolocation discovery, Socket.IO updates, Payment Gateways |
+
+---
+
+## 📊 Engineering Velocity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PeterDiyo&theme=github-dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PeterDiyo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterDiyo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img width="98%" src="https://streak-stats.demolab.com?user=PeterDiyo&theme=tokyonight&hide_border=true" />
+</p>
 
+---
 
-## 🌐 Connect & Explore More
+## 🏆 Recognition & Leadership
 
-- [LinkedIn](https://www.linkedin.com/in/peter-diyo-a38451289/)
-- [Instagram](https://www.instagram.com/diyopeter/)
-- [Twitter](https://x.com/peter_diyo?t=GjznmSILO2rOpWbh9zFdHA&s=09)
-- [Portfolio website](https://peterdiyo.netlify.app/)
+* 🌍 **Zambian Student Ambassador** — SRM Institute of Science & Technology
+* 🥇 **National 1st Prize** — J.E.T.S. Fair for Mathematical & Technical Innovation
+* 📜 **Academic Excellence** — Department Topper
+* 🎓 **Distinction Scholar** — B.Sc. Computer Science (8.89/10 GPA)
 
-<h2 align="center">Drop a star ⭐ on repositories you find intriguing! Let's embark on this coding odyssey together! 🚀</h2>
+---
+
+<h3 align="center">
+Engineering reliable systems today — building global impact tomorrow 🌍
+</h3>
