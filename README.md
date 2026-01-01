@@ -67,16 +67,8 @@ For the past several years, I have been architecting event-driven systems and re
 
 <p align="center">
   <img 
-    width="98%" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=PeterDiyo&background=0D1117&fire=36BCF7&ring=36BCF7&stroke=36BCF7&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
-    alt="GitHub Streak" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    width="98%" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PeterDiyo&theme=react-dark&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true&area=true" 
-    alt="Contribution Graph"
+    width="100%" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PeterDiyo&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true&area=true&hide_title=true" 
+    alt="Contribution Velocity"
   />
 </p>
