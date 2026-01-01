@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PeterDiyo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/peter-diyo-a38451289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:princediyo93@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/peter_diyo"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -66,8 +65,14 @@ I architect production systems that scale linearly, fail predictably, and remain
 ## 📊 Engineering Velocity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PeterDiyo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterDiyo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=PeterDiyo&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PeterDiyo&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
