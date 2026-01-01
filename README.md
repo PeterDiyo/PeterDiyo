@@ -1,95 +1,70 @@
-<h1 align="center">Peter Diyo</h1>
+# Hi there, I'm Peter Diyo 👋
 
-<p align="center">
-  <strong>Software Development Engineer · Full-Stack Architect · Cloud & Distributed Systems</strong>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Scalable+Cloud+Systems;Production-Grade+Full-Stack+Engineering;Real-Time+Systems+%7C+Convex+%26+WebSockets;Infrastructure+as+Code+%7C+AWS+%26+K8s" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/peter-diyo-a38451289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:princediyo93@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="left">
+  <a href="https://peterdiyo.vercel.app/"><img src="https://img.shields.io/badge/WEBSITE-FFD700?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/peter-diyo-a38451289/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:princediyo93@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/peter_diyo"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://peterdiyo.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+I am a **Software Development Engineer** and **Full-Stack Architect** focused on Cloud & Distributed Systems. I build production-grade applications that prioritize type-safety, idempotency, and high availability.
+
+For the past several years, I have been architecting event-driven systems and real-time platforms. I specialize in bridging the gap between complex frontend requirements and robust backends.
+
+## My work
+
+### 🚀 Selected Projects
+
+| Project | Description | Language | Stars | Forks | Issues |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 📂 **[Teamz](https://github.com/PeterDiyo/Teamz)** | Real-time workspace collaboration platform | `TypeScript` | ![Stars](https://img.shields.io/github/stars/PeterDiyo/Teamz?style=flat&color=36BCF7) | ![Forks](https://img.shields.io/github/forks/PeterDiyo/Teamz?style=flat&color=36BCF7) | ![Issues](https://img.shields.io/github/issues/PeterDiyo/Teamz?style=flat&color=36BCF7) |
+| 📂 **[CisiDOCX](https://github.com/PeterDiyo/CisiDOCX)** | AI-powered OS for business & legal compliance | `Next.js` | ![Stars](https://img.shields.io/github/stars/PeterDiyo/CisiDOCX?style=flat&color=36BCF7) | ![Forks](https://img.shields.io/github/forks/PeterDiyo/CisiDOCX?style=flat&color=36BCF7) | ![Issues](https://img.shields.io/github/issues/PeterDiyo/CisiDOCX?style=flat&color=36BCF7) |
+| 📂 **[Catalyst](https://github.com/PeterDiyo)** | High-scale REST API for business acquisitions | `Node.js` | ![Stars](https://img.shields.io/github/stars/PeterDiyo/Catalyst?style=flat&color=36BCF7) | ![Forks](https://img.shields.io/github/forks/PeterDiyo/Catalyst?style=flat&color=36BCF7) | ![Issues](https://img.shields.io/github/issues/PeterDiyo/Catalyst?style=flat&color=36BCF7) |
+
+---
+
+## My toolbox
+
+**Languages & Core**
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+**Frameworks, Cloud & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
 ---
 
-## 👨‍💻 Engineering Philosophy
-
-I architect production systems that scale linearly, fail predictably, and remain observable under pressure. I prioritize type-safety over speed, idempotent operations over side-effects, and developer experience as a first-class citizen. I design software that survives real users, high-concurrency traffic, and complex failure modes.
-
----
-
-## 🧠 Strategic Expertise
-
-- **Distributed Full-Stack** — Next.js, React, Node.js, Spring Boot, T3 Stack
-- **Cloud Infrastructure** — AWS (SNS, SES, EC2, IAM), Terraform, Event-Driven Architecture
-- **Data Engineering** — PostgreSQL, MySQL, NoSQL, Prisma, Drizzle, Zod Validation
-- **Real-Time Platforms** — Convex, WebSockets, Redis, State Synchronization
-- **DevOps & Platform** — Docker, Kubernetes (EKS/Self-managed), CI/CD, Cloudflare
-
----
-
-## 🧰 Tech Stack
+## Engineering Velocity
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,spring,postgres,mysql,mongodb,prisma,aws,docker,kubernetes,githubactions,cloudflare,vercel,py,java,cpp,html,css,tailwind,git,postman" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PeterDiyo&theme=react-dark&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🏛️ System Architecture Workflow
+## Recognition & Leadership
 
-
-
-* **Idempotency & Reliability:** Implementing automated retry/bounce logic for high-volume event streams (50K+ daily).
-* **Type-Safe Pipelines:** End-to-end schema validation using **Zod** and **TypeScript** to ensure runtime stability.
-* **Orchestration:** Containerized microservices deployed via **GitHub Actions** to **Kubernetes** clusters.
-
----
-
-## 🚀 Selected Engineering Impact
-
-| Project | Deep Dive | Technical Highlight |
-|:--- |:--- |:--- |
-| **Teamz** | High-concurrency collaboration | Real-time state sync via Convex, RBAC, Nested Threads |
-| **CisiDOCX** | AI Document OS | LLM-based compliance checking, Multi-tenant Architecture |
-| **Catalyst** | Business Acquisition API | High-throughput REST patterns, K8s scaling, Drizzle ORM |
-| **AgroHub** | Farmer Marketplace | Geolocation discovery, Socket.IO updates, Payment Gateways |
-
----
-
-## 📊 Engineering Velocity
+* 🌍 **Student Ambassador for Zambia** — SRM Institute of Science & Technology
+* 🥇 **First Prize** — National J.E.T.S. Fair (Mathematics Innovation)
+* 📜 **Academic Topper (CS)** — Distinction Scholar with 8.89 GPA
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=PeterDiyo&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PeterDiyo&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  <b>Engineering reliable systems today — building global impact tomorrow 🌍</b>
 </p>
-
-<p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=PeterDiyo&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Recognition & Leadership
-
-* 🌍 **Zambian Student Ambassador** — SRM Institute of Science & Technology
-* 🥇 **National 1st Prize** — J.E.T.S. Fair for Mathematical & Technical Innovation
-* 📜 **Academic Excellence** — Department Topper
-* 🎓 **Distinction Scholar** — B.Sc. Computer Science (8.89/10 GPA)
-
----
-
-<h3 align="center">
-Engineering reliable systems today — building global impact tomorrow 🌍
-</h3>
