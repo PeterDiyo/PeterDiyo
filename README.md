@@ -21,7 +21,6 @@ For the past several years, I have been architecting event-driven systems and re
 | 📂 **[CisiDOCX](https://github.com/PeterDiyo/CisiDOCX)** | AI-powered OS for business & legal compliance | `Next.js` | ![Stars](https://img.shields.io/github/stars/PeterDiyo/CisiDOCX?style=flat&color=36BCF7) | ![Forks](https://img.shields.io/github/forks/PeterDiyo/CisiDOCX?style=flat&color=36BCF7) | ![Issues](https://img.shields.io/github/issues/PeterDiyo/CisiDOCX?style=flat&color=36BCF7) |
 | 📂 **[Catalyst](https://github.com/PeterDiyo)** | High-scale REST API for business acquisitions | `Node.js` | ![Stars](https://img.shields.io/github/stars/PeterDiyo/Catalyst?style=flat&color=36BCF7) | ![Forks](https://img.shields.io/github/forks/PeterDiyo/Catalyst?style=flat&color=36BCF7) | ![Issues](https://img.shields.io/github/issues/PeterDiyo/Catalyst?style=flat&color=36BCF7) |
 
----
 
 ## My toolbox
 
@@ -49,22 +48,35 @@ For the past several years, I have been architecting event-driven systems and re
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
----
+--- 
 
 ## Engineering Velocity
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PeterDiyo&theme=react-dark&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true&area=true" />
+  <img 
+    width="49%" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=PeterDiyo&show_icons=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&hide_border=true&count_private=true&include_all_commits=true" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    width="49%" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PeterDiyo&layout=compact&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&hide_border=true&langs_count=20" 
+    alt="All Languages" 
+  />
 </p>
 
----
-
-## Recognition & Leadership
-
-* 🌍 **Student Ambassador for Zambia** — SRM Institute of Science & Technology
-* 🥇 **First Prize** — National J.E.T.S. Fair (Mathematics Innovation)
-* 📜 **Academic Topper (CS)** — Distinction Scholar with 8.89 GPA
+<p align="center">
+  <img 
+    width="98%" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=PeterDiyo&background=0D1117&fire=36BCF7&ring=36BCF7&stroke=36BCF7&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
+    alt="GitHub Streak" 
+  />
+</p>
 
 <p align="center">
-  <b>Engineering reliable systems today — building global impact tomorrow 🌍</b>
+  <img 
+    width="98%" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PeterDiyo&theme=react-dark&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true&area=true" 
+    alt="Contribution Graph"
+  />
 </p>
