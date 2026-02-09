@@ -7,7 +7,7 @@
   <a href="https://x.com/peter_diyo"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
-I am a **Software Development Engineer** and **Full-Stack Architect** focused on Cloud & Distributed Systems. I build production-grade applications that prioritize type-safety, idempotency, and high availability.
+I am a **Software Engineer** and a **Cloud, DevOps Engineer** focused on Full Stack, Cloud, & Distributed Systems. I build production-grade applications that prioritize type-safety, idempotency, and high availability.
 
 For the past several years, I have been architecting event-driven systems and real-time platforms. I specialize in bridging the gap between complex frontend requirements and robust backends.
 
