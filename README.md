@@ -1,4 +1,4 @@
-# Hi there, I'm Peter Diyo 👋
+# Hi there, I'm Peter Diyo 👋 
 
 <p align="left">
   <a href="https://peterdiyo.vercel.app/"><img src="https://img.shields.io/badge/WEBSITE-FFD700?style=for-the-badge&logo=vercel&logoColor=black" /></a>
