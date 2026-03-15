@@ -1,5 +1,5 @@
 # Hi there, I'm Peter Diyo 👋 
- 
+
 <p align="left">
   <a href="https://peterdiyo.vercel.app/"><img src="https://img.shields.io/badge/WEBSITE-FFD700?style=for-the-badge&logo=vercel&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/peter-diyo-a38451289/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
