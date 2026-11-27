@@ -11,7 +11,7 @@ I am a **Software Engineer** focused on Full Stack, Cloud, & Distributed Systems
 
 For the past several years, I have been architecting event-driven systems and real-time platforms. I specialize in bridging the gap between complex frontend requirements and robust backends. 
 
-## My work
+## My work 
 
 ### 🚀 Selected Projects 
 
