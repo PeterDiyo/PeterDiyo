@@ -15,7 +15,7 @@ For the past several years, I have been architecting event-driven systems and re
 
 ### 🚀 Selected Projects 
 
-| Project | Description | Language | Stars | Forks | Issues |
+| Project | Description | Language | Stars | Forks | Issues | 
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 📂 **[Teamz](https://github.com/PeterDiyo/Teamz)** | Real-time workspace collaboration platform | `TypeScript` | ![Stars](https://img.shields.io/github/stars/PeterDiyo/Teamz?style=flat&color=36BCF7) | ![Forks](https://img.shields.io/github/forks/PeterDiyo/Teamz?style=flat&color=36BCF7) | ![Issues](https://img.shields.io/github/issues/PeterDiyo/Teamz?style=flat&color=36BCF7) |
 | 📂 **[CisiDOCX](https://github.com/PeterDiyo/CisiDOCX)** | AI-powered OS for business & legal compliance | `Next.js` | ![Stars](https://img.shields.io/github/stars/PeterDiyo/CisiDOCX?style=flat&color=36BCF7) | ![Forks](https://img.shields.io/github/forks/PeterDiyo/CisiDOCX?style=flat&color=36BCF7) | ![Issues](https://img.shields.io/github/issues/PeterDiyo/CisiDOCX?style=flat&color=36BCF7) |
